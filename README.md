@@ -1,3 +1,6 @@
+# Figma макет
+https://www.figma.com/design/eAZvhKWG2ybRkjVkSU89qC/Random-Joke-Generator?t=NWq5wKsei8jCtUcd-0
+
 # 😂 Random Joke Generator
 
 Интерактивное веб-приложение для получения случайных шуток по категориям.  
